@@ -1,0 +1,2 @@
+rootProject.name='ContentProviderSample2'
+include ':app'

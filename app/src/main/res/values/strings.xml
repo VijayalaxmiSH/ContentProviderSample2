@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentProviderSample2</string>
+
+    <string name="book_name">Book Name</string>
+    <string name="add_book">Add Book</string>
+    <string name="book_id">Book id</string>
+</resources>
